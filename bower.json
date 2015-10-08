@@ -1,0 +1,24 @@
+{
+  "name": "poly",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.1.4",
+    "iron-image": "PolymerElements/iron-image#~1.0.2",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.4",
+    "iron-grid": "*",
+    "platinum-sw": "PolymerElements/platinum-sw#~1.2.3",
+    "paper-toast": "PolymerElements/paper-toast#~1.0.0"
+  }
+}
